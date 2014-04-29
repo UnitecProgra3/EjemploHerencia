@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1398709455 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/main.cpp
+	<iostream>
+	"Guerrero.h"
+	"Mago.h"
+	<vector>
+
+1398708707 /home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Guerrero.h
+	"Personaje.h"
+	<iostream>
+
+1398362950 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Guerrero.cpp
+	"Guerrero.h"
+
+1398707254 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Mago.cpp
+	"Mago.h"
+
+1398708789 /home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Mago.h
+	"Personaje.h"
+	<iostream>
+
+1398708189 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Personaje.cpp
+	"Personaje.h"
+
+1398708408 /home/turupawn/Projects/Codeblocks/Clases/Progra3Testground/Personaje.h
+	<iostream>
+
